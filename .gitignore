@@ -61,10 +61,6 @@ Thumbs.db
 .eslintcache
 .prettiercache
 
-# ShadCN
-tailwind.config.js
-tailwind.config.ts
-
 # Specific ShadCN files
 components/ui/*
 lib/utils.ts
